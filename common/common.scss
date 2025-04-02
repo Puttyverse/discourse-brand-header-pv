@@ -62,8 +62,8 @@
       @include ellipsis;
 
       &:hover {
-        color: var(--quaternary);
-        background-color: var(--quaternary-low);
+        background: none;
+        text-decoration: underline;
       }
 
       &.active > a,

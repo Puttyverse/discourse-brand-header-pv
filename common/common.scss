@@ -60,7 +60,8 @@
 
     > li > a {
       min-width: 0;
-      color: var(--secondary);
+      font-family: "Montserrat", sans-serif;
+      color: var(--header_primary);
 
       @include ellipsis;
 

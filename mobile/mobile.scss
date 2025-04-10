@@ -9,6 +9,7 @@
 
 // applies when show_bar_on_mobile is unchecked
 .d-header .brand-header-toggle {
+  display: none; //We Don't Want this to display on mobile at all. 
   list-style: none;
   margin: 0 0.65em 0 0;
 
